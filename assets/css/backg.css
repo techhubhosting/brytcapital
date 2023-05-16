@@ -1,0 +1,11 @@
+.w3l-main-slider .banner-view {
+    background: url(../images/brytcapitalsynthetics.jpg) no-repeat center;
+    -ms-background-size: cover;
+    background-size: cover;
+    z-index: 0;
+    position: relative;
+    display: grid;
+    align-items: center;
+    min-height: 950px;
+    background-size: cover;
+}
